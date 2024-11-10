@@ -26,6 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 favicon: /assets/img/favicons/favicon.ico
+apple_touch_icon: /assets/img/favicons/apple-icon-180x180.png
 avatar: /assets/img/site-avatar.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vtf6259.github.io" # the base hostname & protocol for your site, e.g. http://example.com
