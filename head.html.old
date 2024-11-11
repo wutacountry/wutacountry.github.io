@@ -1,2 +1,0 @@
-<link rel="shortcut icon" href="{{ site.favicon | relative_url }}">
-<link rel="apple-touch-icon" href="{{ site.apple_touch_icon | relative_url }}">
