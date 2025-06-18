@@ -29,7 +29,7 @@ favicon: /assets/img/favicons/favicon.ico
 apple_touch_icon: /assets/img/favicons/apple-icon-180x180.png
 avatar: /assets/img/site-avatar.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vtf6259.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wutacountry.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
