@@ -1,0 +1,2 @@
+The code behind the wutacountry [website](https://wutacountry.com). Most people will not meed to see this.  
+If you want to add a feature submit a PR. PRs to add blog posts have a 99% chance to be rejected.
